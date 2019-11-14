@@ -54,3 +54,4 @@ w-loading组件中css注视下方
 ![demo](https://raw.githubusercontent.com/wkiwi/uni-loading/master/demo.gif "demo")
 
 
+# loading
